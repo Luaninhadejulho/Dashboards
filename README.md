@@ -1,46 +1,8 @@
 # 📊 Portfólio de Dashboards Power BI
 
-Este repositório centraliza os dashboards que desenvolvi utilizando Power BI. Cada projeto aborda uma área estratégica diferente, com foco em visualização clara, análise de indicadores e apoio à tomada de decisão.
-
----
-
-## 🔗 Repositórios Individuais
-
-- 💰 [Dashboard Financeiro](https://github.com/Luaninhadejulho/Dashboard_Financeiro)  
-  > Análise completa de receita, despesas, impostos, lucro e movimentações financeiras.
-
-- 🛒 [Dashboard de Vendas](https://github.com/Luaninhadejulho/Dashboard_Vendas)  
-  > Destaque para o produto mais vendido, faturamento por marca e evolução das vendas.
-
-- 👥 [Dashboard de RH](https://github.com/Luaninhadejulho/Dashboard_RH)  
-  > Indicadores de turnover, absenteísmo, contratações, demissões e perfil dos colaboradores.
-
-- 📈 [Dashboard Comercial](https://github.com/Luaninhadejulho/Dashboard_Comercial)  
-  > Análise de vendas por canal, ticket médio, comparação de categorias e regiões.
-
-- 🏭 [Dashboard de Produção](https://github.com/Luaninhadejulho/Dashboard_Producao)  
-  > Métricas de produtividade, rejeições, horas paradas e desempenho por colaborador.
-
----
-
-## 📌 Observações
-
-- Todos os dados são fictícios e foram usados apenas para fins educacionais e de portfólio.
-- Projetos desenvolvidos em Power BI Desktop (.pbix), com foco em usabilidade e estética visual.
-
----
-
-🔗 Criado por [Luana Alves](https://github.com/Luaninhadejulho)
-
-
-# Dashboards
-Aqui estão os dashboards de cada setor que analisei.
-# 📊 Portfólio de Dashboards em Power BI
-
 Bem-vindo(a) ao meu portfólio de projetos em Power BI!  
-Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visualização intuitiva e apoio à tomada de decisão, utilizando dados fictícios para fins educacionais e profissionais.
-
----
+Este repositório centraliza os dashboards que desenvolvi utilizando Power BI.
+Cada projeto aborda uma área estratégica diferente, com foco em visualização clara, análise de indicadores e apoio à tomada de decisão.
 
 ## 🗂️ Projetos Disponíveis
 
@@ -53,7 +15,8 @@ Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visu
 
 ---
 
-### 2. 👥 [Dashboard de RH](./RH/README.md)
+### 2. 👥 [Dashboard de RH](https://github.com/Luaninhadejulho/Dashboard_RH)  
+
 > Monitora dados de Recursos Humanos como absenteísmo, turnover, idade média, contratações e demissões.
 
 - Gráficos de distribuição etária e gênero
@@ -62,7 +25,8 @@ Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visu
 
 ---
 
-### 3. 🛒 [Dashboard de Vendas](./Vendas/README.md)
+### 3. 🛒 [Dashboard de Vendas](https://github.com/Luaninhadejulho/Dashboard_Vendas)  
+
 > Análise completa de vendas, com destaque para produto mais vendido, faturamento e evolução temporal.
 
 - Mapa de vendas por país
@@ -71,7 +35,8 @@ Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visu
 
 ---
 
-### 4. 💰 [Dashboard Financeiro](./Financeiro/README.md)
+### 4. 💰 [Dashboard Financeiro](https://github.com/Luaninhadejulho/Dashboard_Financeiro)  
+
 > Visão consolidada das finanças da empresa: receitas, despesas, lucros e transações.
 
 - Indicadores de lucro, imposto e movimentações
@@ -80,7 +45,8 @@ Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visu
 
 ---
 
-### 5. 🏭 [Dashboard de Produção](./Producao/README.md)
+### 5. 🏭 [Dashboard de Produção](https://github.com/Luaninhadejulho/Dashboard_Producao)  
+
 > Acompanha a produtividade dos colaboradores ao longo de 7 meses de operação.
 
 - Total aprovado vs. rejeitado
@@ -89,7 +55,8 @@ Aqui você encontra dashboards desenvolvidos com foco em análise de dados, visu
 
 ---
 
-### 6. 📈 [Dashboard Comercial](./Comercial/README.md)
+### 6. 📈 [Dashboard Comercial](https://github.com/Luaninhadejulho/Dashboard_Comercial)  
+
 > Avaliação de desempenho de vendas por região, tipo de produto e canal de venda.
 
 - Comparação entre brinquedos e eletrônicos
