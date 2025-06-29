@@ -1,3 +1,38 @@
+# 📊 Portfólio de Dashboards Power BI
+
+Este repositório centraliza os dashboards que desenvolvi utilizando Power BI. Cada projeto aborda uma área estratégica diferente, com foco em visualização clara, análise de indicadores e apoio à tomada de decisão.
+
+---
+
+## 🔗 Repositórios Individuais
+
+- 💰 [Dashboard Financeiro](https://github.com/Luaninhadejulho/Dashboard_Financeiro)  
+  > Análise completa de receita, despesas, impostos, lucro e movimentações financeiras.
+
+- 🛒 [Dashboard de Vendas](https://github.com/Luaninhadejulho/Dashboard_Vendas)  
+  > Destaque para o produto mais vendido, faturamento por marca e evolução das vendas.
+
+- 👥 [Dashboard de RH](https://github.com/Luaninhadejulho/Dashboard_RH)  
+  > Indicadores de turnover, absenteísmo, contratações, demissões e perfil dos colaboradores.
+
+- 📈 [Dashboard Comercial](https://github.com/Luaninhadejulho/Dashboard_Comercial)  
+  > Análise de vendas por canal, ticket médio, comparação de categorias e regiões.
+
+- 🏭 [Dashboard de Produção](https://github.com/Luaninhadejulho/Dashboard_Producao)  
+  > Métricas de produtividade, rejeições, horas paradas e desempenho por colaborador.
+
+---
+
+## 📌 Observações
+
+- Todos os dados são fictícios e foram usados apenas para fins educacionais e de portfólio.
+- Projetos desenvolvidos em Power BI Desktop (.pbix), com foco em usabilidade e estética visual.
+
+---
+
+🔗 Criado por [Luana Alves](https://github.com/Luaninhadejulho)
+
+
 # Dashboards
 Aqui estão os dashboards de cada setor que analisei.
 # 📊 Portfólio de Dashboards em Power BI
