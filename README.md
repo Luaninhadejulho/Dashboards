@@ -6,7 +6,8 @@ Cada projeto aborda uma área estratégica diferente, com foco em visualização
 
 ## 🗂️ Projetos Disponíveis
 
-### 1. 💼 [Dashboard de Análise de Desempenho](./Dashboard_Desempenho_Individual/README.md)
+### 1. 💼 [Dashboard de Análise de Desempenho](https://github.com/Luaninhadejulho/Dashboard_Desempenho_Individual)
+
 > Acompanha o desempenho de colaboradores ao longo de 2020, com visão geral e análise individual detalhada.
 
 - Ranking dos colaboradores que mais venderam
